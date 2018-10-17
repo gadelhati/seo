@@ -1,0 +1,6 @@
+todas as paginas devem estar "linkadas";
+forneça um arquivo de sitemap atualizado e uma lista legível com links chamada "índice do site" ou "página de sitemap";
+não utilize mais de 2000 links em uma página;
+Verifique se o servidor da Web que você usa oferece o suporte adequado ao cabeçalho HTTP If-Modified-Since;
+Mantenha seu arquivo robots.txt atualizado;
+Teste a cobertura e a sintaxe do seu arquivo robots.txt usando a ferramenta de teste do arquivo robots.txt (https://www.google.com/webmasters/tools/robots-testing-tool);
