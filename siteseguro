@@ -4,3 +4,20 @@ site blindado:
 	https://www.siteblindado.com/consumidor/selo-blindado/?language=pt&hostname=www.zocprint.com.br
 safe browsing google: 
 	https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.papira.com.br%2F
+certificado SSL com criptografia avançada de 256 bits
+
+captcha
+
+REF.: https://www.pedrodias.net/webmaster/migrar-para-https
+
+https:
+	Obter um certificado SSL (Secure Sockets Layer)
+	Validar suporte HTTPS de recursos externos
+	Planejar e preparar a migração de protocolo
+	Habilitar protocolo HTTPS e instalar o certificado SSL
+	Atualizar recursos e links internos para HTTPS
+	Atualizar recursos externos para HTTPS
+	Adicionar a versão HTTPS na Search Console
+	Habilitar redirecionamentos HTTP para HTTPS
+	Habilitar suporte HTTP/2
+	Habilitar HSTS
