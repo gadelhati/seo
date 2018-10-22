@@ -10,7 +10,7 @@ captcha
 
 REF.: https://www.pedrodias.net/webmaster/migrar-para-https
 
-https:
+https(Hyper Text Transfer Protocol Secure):
 	Obter um certificado SSL (Secure Sockets Layer), https://www.cloudflare.com/pt-br/
 	Validar suporte HTTPS de recursos externos
 	Planejar e preparar a migração de protocolo
