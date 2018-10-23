@@ -1,0 +1,14 @@
+Input Type	IE	Firefox	Chrome	Safari	Opera
+Input type = Color	Não	Não	Sim	Não	Sim
+Input type = Date	Não	Não	Sim	Sim	Sim
+Input type = Datetime	Não	Não	Não	Sim	Sim
+Input type = Month	Não	Não	Sim	Sim	Sim
+Input type = DateTime-Local	Não	Não	Não	Sim	Sim
+Input type = E-mail	Não	Não	Sim	Não	Sim
+Input type = Number	Não	Não	Sim	Sim	Sim
+Input type = Range	Não	Não	Sim	Sim	Sim
+Input type = Search	Não	Não	Sim	Sim	Não
+Input type = Tel	Não	Não	Não	Não	Não
+Input type = Time	Não	Não	Sim	Sim	Sim
+Input type = Url	Não	Sim	Sim	Não	Sim
+Input type = week	Não	Não	Sim	Sim	Sim
