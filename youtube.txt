@@ -1,0 +1,83 @@
+programação: streaming, in video, tent-pole.
+adobe premiere elements
+twitter: postagens automáticas do youtube, listas, retwittar de quem não se conhece
+(followerwork.com)a quanto tempo e a que horas posta, para saber quando postar
+história, crença, liderança & confiança
+descobrir/imitar do cliente: gosto pessoal, rotina, linguagem, páginas web visitadas.
+qualidades e defeitos dos concorrentes
+domínios paralelos como previsão de ondas para surfistas
+definir como sucesso, qtd de: comentários, visualizações, inscrições, videos(do canal e incorporados), dinheiro, resultados em buscas.
+personalidade do apresentador
+biografia: contatos, o que e com qual frequencia vai twittar(vídeo novo toda quinta-feira), agenda+eventos: na descrição, na arte, em cada vídeo
+desenhos com a mão + animação
+marca d'agua, canto superior direito/ #canal, canto superior esquerdo
+ativar player incorporado
+legendas(CC)
+destacar canais similares
+trailer para não inscritos(o que há de principal no canal)
+duração 10min, vender e incitar a curiosidade o canal nos primeiros 8s.
+	entregue o mínimo possível até o fim
+	corte o máximo que puder
+qualidade: video full hd 1920x1080 ,foto2560x1440
+	trailer/preview("VEM AÍ!")
+	evento: lançamento, exposição, palestra
+	bastidores/making of
+	unboxing
+	instalação
+	guia para iniciantes/passo-a-passo	|	cookbook
+	como funciona
+	equipamento concorrente
+	avaliação/comparação
+	os 10 melhores/10 coisas
+	em 1 minuto/review
+ 
+	atividade recente > incluir apenas envios (seus vídeos)
+	recaps
+	quadros:
+		introdução: em cada vídeo!?!
+		cenas do próximo capítulo: em cada vídeo!?!
+		erros de gravação
+	inicio do vídeo:
+		cenas do capítulo anterior
+		título à esquerda como na miniatura.
+	final do vídeo:
+		rúbrica 10s antes do fim, adicionar vídeo em destaque
+		miniaturas do lado esquerdo: anterior, próximo, outra playlist.
+		anotação sobre um gráfico
+		cartão de abertura 30s, cartão de encerramento 10s-15s
+		convença que apoiar com link: seguir(twitter), curtir/compartilhar/comentar(facebook), inscrever(youtube), blog, site.[pedido verbal]... é importante p/ ñ perder os próximos
+	+fotos
+título [ferramenta] [versão 4.3] (1 de 12) pt-br - GTI
+	atualizar o título melhora o resultado nas buscas [REMASTERIZED]	videos comentados, pedir sugestão
+	vivos e claros, ñ escuros.
+	ícones das ferramentas
+	utilizar adwords para buscar tags, metadados e keywords [pense nas buscas]
+título na miniatura com logo da ferramenta
+	testar tamanho da miniatura, 640x360 16:9: canal, feed, celular, sugeridos, busca.
+tag|título[60char]|descrição[140char]|post|comentário de canal|seção|playlist|video explícita|curta|atraente|criativa|descritiva|
+	(colaboração)comentários: pedir(aceita-se sugestão), monitorar, responder e agradescer em vídeo.
+	classificar por: assunto, marca, modelo, tema, tópico, gênero, apresentador, produtor, produto.
+CANAL	SEÇÃO	PLAYLIST(novela,série)
+	Versionamento	GitHub
+	Modelagem	Astah
+	Java	JSE/JEE
+	Metodologias	Kanban/Scrum
+	Bancos	PostgreSQL/MySQL
+	Serv&Containers	Apache/WildFly
+	Servlets
+	Fornt-End
+		RIA	Primefaces/Bootstrap
+		JSF
+		JSP
+		HTML5
+		CSS3
+		JQuery
+		JavaScript
+	Recentes
+	Populares
+google.com: trends, alerts
+	novidades, status dos resultados das buscas
+newship.com
+	notícias em alta nas redes sociais
+	novidades
+edmodo

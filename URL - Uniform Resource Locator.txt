@@ -1,0 +1,8 @@
+scheme://prefix.domain:port/path/file
+
+	scheme:	http|https
+	prefix:	www
+	domain: gadelha.eti
+	port:	80 (http)
+	path:	/cursos
+	file:	index.html

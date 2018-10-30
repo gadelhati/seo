@@ -1,0 +1,44 @@
+EdgeRank = AFINIDADE * PESO * TEMPO
+	Encurtadores de link diminuem a relevância
+ 
+aplicativos do facebook:
+	Tweetdeck, Hootsuite, edgerank checker
+	Wildfire
+	(abas personalizadas): static iframe INSTALADA, woobox
+	upload
+	download
+	Criar Concursos:
+		KontestApp
+		Halalati
+		Digibonus
+		Social Hacker propõe, principalmente, o aplicativo PHOTO CONTEST, para lançar um concurso fotográfico.
+		Agorapulse
+		Wishpond
+ 
+resolução: 4:3 é uma proporção, 1024x768 :(1024/4)x3= 768 [visível: 960px/550px]
+ 
+pdf/pagina(960x1358)
+imagens	(MARCO: 843x403, POST FIXO: 403X403)
+ 
+LAYOUT DAS POSTAGENS[recentes/relacionadas]:
+locais:		faróis, praias, canais;[continente, pais, estado, cidade, bairro, rua, numero]	+ROTEIRO
+softwares:	aplicativos(android), programas(windows, linux);[SO, linguagem, banco]	+MANUAIS(operação, instalação)
+dispositivos:	equipamentos, ferramentas, instrumentos;[categoria[4], sub-categoria(ais, radar), marca/empresa, modelo]	+MANUAIS(operação, instalação)
+ 
+	CAPA(PNG, 100Kb: 399x150 - 851x315) [idéia: na barra inferior os patrocinadores]
+	LOGO(PNG,      : 90x90 - 180x180) [idéia: o logo é continuação da capa]
+		TÍTULO (para videos não leva título)
+		texto(100-250...5000) [O @institutohidrografico sobre...até 250 ]
+	CALL ACTION [BOTÃO(COR+SETA)] [FREE] [DOWNLOAD]
+	Autor:	@nome_do_citado
+	Imagens:	@nome_do_citado
+	Apostilas:	download
+	Manuais:	download
+	Ref.:	www.institutohidrografico.com (fora do ar)
+		www.institutohidrografico.com (plug-in social no site)
+ 
+		#farol, #institutohidrografico, #marinhadobrasil, #estado
+	em:	@institutohidrografico
+	FOTO(PNG, 100Kb: 399x150 - 851x315)
+	video(1024mb, 20min)
+	PREVIEW do link

@@ -1,0 +1,27 @@
+Blog/Forum
+Votação
+    pergunta   	 enquete
+    respostas
+    destinatário
+Quis[tempo limite]
+    multipla escolha
+    v/f
+    correspondência
+Post
+    nota[título, descrição, msg]
+    alerta
+    apresentação
+    documento
+    imagem
+    vídeo
+    link
+ 
+    droopbox
+    onedrive
+    googeldrive
+    github
+    ldap
+login social
+    facebook
+    twitter
+    google plus
