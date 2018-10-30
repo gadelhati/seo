@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.gadelha.eti.br/sitemap">
+	<url>
+		<loc>http://www.gadelha.eti.br/index.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.9</priority>
+		<lastmod>2017-06-25</lastmod>
+	</url>
+	<url>
+		<loc>http://www.gadelha.eti.br/quem-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<lastmod>2017-06-25</lastmod>
+	</url>
+</urlset>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /log
+Allow: /log/
+Sitemap: http://www.gadelha.eti.br/sitemap.xml

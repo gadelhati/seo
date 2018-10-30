@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<!-- RSS (Rich Site Summary) -->
+<channel>
+	<title>Título do Feed</title>
+	<link>http://www.gadelha.eti.br/</link>
+	<description>Gadelha Tecnologia Inteligente.</description>
+	<category>Web development</category>
+	<copyright>2017 Todos os direitos reservados.</copyright>
+	<language>pt-br</language>
+	
+	<item>
+		<title>Título do Conteúdo</title>
+		<link>URL direto ao conteúdo</link>
+		<author>gadelha.ti@gmail.com</author>
+		<guid>ID única do conteúdo. Copie o URL novamente</guid>
+		<pubDate>Wed, 27 Nov 2013 15:17:32 GMT (Nota: A data precisa estar neste formato)</pubDate>
+		<description>Descrição do conteúdo.</description>
+		<comments>https://www.gadelha.eti.br/commentarios</comments>
+	</item>
+	<item>
+		<title>Título do Conteúdo</title>
+		<link>URL direto ao conteúdo</link>
+		<author>gadelha.ti@gmail.com</author>
+		<guid>ID única do conteúdo. Copie o URL novamente</guid>
+		<pubDate>Wed, 27 Nov 2013 15:17:32 GMT (Nota: A data precisa estar neste formato)</pubDate>
+		<description>Descrição do conteúdo.</description>
+		<comments>https://www.gadelha.eti.br/commentarios</comments>
+	</item>
+</channel>
+</rss>
