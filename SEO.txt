@@ -1,0 +1,41 @@
+https://support.google.com/webmasters/answer/7451184?hl=pt-BR
+
+VELOCIDADE DO SITE:
+	PageSpeed Insights:
+		https://www.tecmundo.com.br/internet/126306-seo-google-comecara-eliminar-paginas-lentas-canal-busca.htm
+
+PALAVRAS-CHAVE:
+	Google Trends
+		https://www.tecmundo.com.br/software/124640-google-trends-dados-tempo-real-noticia-imagens-videos.htm
+	Google Adwords
+		https://www.tecmundo.com.br/google/110686-google-lanca-campanha-ajudar-pequenas-medias-empresas-brasileiras.htm
+
+sitemap
+densidade de keywords
+backlinks
+
+1. Home Page (Primeira Página)
+2. Produtos / Serviços
+3. Contactos
+4. Preços
+5. Testemunhos / Críticas aos produtos / Antes & Depois
+6. Perguntas mais frequentes
+7. Formulários como “Subscrever” ou “Pedido de informações”
+8. Newsletter
+9. Documentação / Artigos
+10. Sobre nós / Empresa
+11. Garantias
+12. Teste online / Visita / Vistoria
+13. Calendário de eventos
+14. Motor de pesquisa e respectiva página de resultados
+15. Política de devoluções ou reembolso
+16. Política de privacidade
+17. Mapa do site
+18. Direitos industriais (copyright)
+19. Links úteis
+20. Notícias sobre nós
+21. Notícias sobre o sector
+22. Loja online
+23. Suporte online / Apoio técnico
+24. Fórum
+25. Blogue
